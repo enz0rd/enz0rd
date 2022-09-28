@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enzo!</h1>
 <h3 align="center">A student in the dev world and a graphic designer</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img max-width="200px" src="https://github-profile-trophy.vercel.app/?username=enz0rd" alt="enz0rd" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img max-width="200px" src="https://github-profile-trophy.vercel.app/?username=enz0rd&title=Joined2020,Commits,PullRequest,Repositories" alt="enz0rd" /></a> </p>
 
 - 💼 I’m currently working as a Graphic designer at [Microsite Agência Digital](www.microsite.net.br)
 
