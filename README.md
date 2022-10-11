@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning HTML, JS, CSS and Node.Js at **Jovem Programador - SENAC**
 
-- 👨‍💻 All of my social network and projects are available at [linktr.ee/megab_07](linktr.ee/megab_07)
+- 👨‍💻 All of my social network and projects are available at [linktr.ee/megab_07](https://linktr.ee/megab_07)
 
 - 📫 How to reach me: **enzorossidaltoe@hotmail.com.br**
 
