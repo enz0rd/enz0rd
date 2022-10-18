@@ -5,7 +5,7 @@
 
 - 💼 I’m currently working as a Graphic designer at [Microsite Agência Digital](https://www.microsite.net.br)
 
-- 🌱 I’m currently learning HTML, JS, CSS and Node.Js at **Jovem Programador - SENAC**
+- 🌱 I’m currently learning HTML, JS, CSS, Node.Js and PHP at **Jovem Programador - SENAC**
 
 - 👨‍💻 All of my social network and projects are available at my [Linktree](https://linktr.ee/megab_07)
 
