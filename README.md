@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enzo!</h1>
-<h3 align="center">A student in the dev world and a graphic designer</h3>
+<h3 align="center">A student in the back-end world</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enz0rd&title=Joined2020,Commits,PullRequest,Repositories,Stars,Followers" alt="enz0rd" /></a> </p>
 
