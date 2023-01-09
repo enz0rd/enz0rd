@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enz0rd&title=Joined2020,Commits,PullRequest,Repositories,Stars,Followers" alt="enz0rd" /></a> </p>
 
-- 💼 I’m currently working as a Support Technician at <a href="https://www.gdoor.com.br" target="_blank">GDoor Sistemas</a>
+- 💼 I’m currently working as a Support Technician at <a href="https://www.gdoor.com.br" target="_blank">Gdoor Sistemas</a>
 
 - 🌱 I’m currently learning Node.Js with Express
 
