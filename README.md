@@ -5,7 +5,7 @@
 
 - 💼 I’m currently working as a Support Technician at <a href="https://www.gdoor.com.br" target="_blank">Gdoor Sistemas</a>
 
-- 🌱 I’m currently learning Tensorflow in Python
+- 🌱 I’m currently learning Node.js
 
 - 👨‍💻 All of my social network and projects are available at my <a href="https://linktr.ee/megab_07" target="_blank">Linktree</a>
 
