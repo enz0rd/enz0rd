@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer</h3>
 
 
-- 💼 I’m currently working as QA at <a href="https://www.gdoor.com.br" target="_blank">Gdoor Zucchetti</a> and as a backend developer for <a href="https://grupobright.com.br" target="_blank">Grupo Bright</a>
+- 💼 I’m currently working as QA at <a href="https://www.gdoor.com.br" target="_blank">Gdoor Zucchetti</a>
 - 🌱 I’m currently learning ReactJs
 - 👨‍💻 All of my social network and projects are available at my <a href="https://linktr.ee/megab_07" target="_blank">Linktree</a>
 - 📫 How to reach me: **enzorossidaltoe@hotmail.com.br**
