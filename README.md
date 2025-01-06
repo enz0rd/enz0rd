@@ -5,7 +5,7 @@ Fullstack Developer
 -------------------
 
 *   🌍  I'm based in Concórdia, SC, Brazil
-*   🖥️  See my portfolio at [enz0rd.dev](http://enz0rd.com)
+*   🖥️  See my portfolio at [enz0rd.com](http://enz0rd.com)
 *   ✉️  You can contact me at [enzorossidaltoe@hotmail.com.br](mailto:enzorossidaltoe@hotmail.com.br)
 *   🚀  I'm currently working on [GoClass](http://dev-goclass.vercel.app)
 *   🧠  I'm learning React and NodeJS
