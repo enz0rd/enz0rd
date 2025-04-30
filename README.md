@@ -5,9 +5,9 @@ Fullstack Developer
 -------------------
 
 *   🌍  I'm based in Concórdia, SC, Brazil
-*   🖥️  See my portfolio at [enz0rd.com](http://enz0rd.com)
+*   🖥️  See my portfolio at [enz0rd.com](https://enz0rd.com)
 *   ✉️  You can contact me at [enzorossidaltoe@hotmail.com.br](mailto:enzorossidaltoe@hotmail.com.br)
-*   🚀  I'm currently working on [GoClass](http://dev-goclass.vercel.app)
+*   🚀  I'm currently working on [LumaClone](https://github.com/enz0rd/lumaclone)
 *   🧠  I'm learning React and NodeJS
 *   🤝  I'm open to collaborating on Any projects that uses my stack
 
